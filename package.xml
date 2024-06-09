@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>nmpc_eigen</name>
+  <version>0.0.0</version>
+  <description>Nonlinear Model Predictive Control with C++</description>
+
+  <maintainer email="sugihara@jsk.imi.i.u-tokyo.ac.jp">Kazuki Sugihara</maintainer>
+  <author email="sugihara@jsk.imi.i.u-tokyo.ac.jp">Kazuki Sugihara</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
